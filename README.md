@@ -16,8 +16,6 @@ For example, input.txt is:
 
 ```
 반기문은 1944년 6월 13일에 태어났다.
-
-실행결과는 아래와 같은 파일이 만들어 짐을 확인한다.
 ```
 
 output.txt is:
